@@ -1,16 +1,65 @@
-## Hi there 👋
+# Hi, I'm Md.Thife 👋
 
-<!--
-**MohammedThife/MohammedThife** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About Me
 
-Here are some ideas to get you started:
+- 🎓 B.Tech (Computer Science & Machine Learning) Student
+- 💻 Learning Python, Data Structures & Algorithms, and Full Stack Development
+- 🤖 Interested in AI-Powered Web Applications
+- 🌍 Looking for Remote Internship & Full-Time Opportunities
+- 📚 Always learning and building new projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Skills
+
+- HTML
+- CSS
+- JavaScript
+- Python(Basics)
+- FastAPI (Basics)
+- MongoDB (Basics)
+- Git & GitHub
+- REST APIs
+
+## 🤖 AI Tools
+
+- Google AI Studio
+- Antigravity
+- GitHub copilot
+- Blackbox AI
+- OpenCode
+- Codex
+- Figma
+- Stitch ai
+- Visily ai
+- Miro, Balsamiq
+
+## 🚀 Projects
+
+### AI-Powered Full Stack Career & Learning Platform
+
+- AI Career Assistant
+- Resume Management
+- Skill Assessment
+- Career Dashboard
+- Job Recommendations
+
+## 🌱 Currently Learning
+
+- Python
+- Data Structures & Algorithms
+- SQL
+- MongoDB
+- Full Stack Development
+
+## 📜 Certifications
+
+- Frontend web Development
+- Smart India Hackathon (Participant)
+
+## 🎯 Career Goal
+
+To become a Full Stack Developer and contribute to building AI-powered applications that solve real-world problems.
+
+## 📫 Connect With Me
+
+- LinkedIn: https://www.linkedin.com/in/mohammed-thife-1592b6358
+- GitHub:

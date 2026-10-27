@@ -8,29 +8,36 @@
 - 🌍 Looking for Remote Internship & Full-Time Opportunities
 - 📚 Always learning and building new projects
 
+
 ## 🛠️ Skills
 
-- HTML
-- CSS
-- JavaScript
-- Python(Basics)
-- FastAPI (Basics)
-- MongoDB (Basics)
-- Git & GitHub
-- REST APIs
+<code>HTML</code>
+<code>CSS</code>
+<code>JavaScript</code>
+<code>Python(Basics)</code>
+<code>FastAPI(Basics)</code>
+<br>
+
+<code>MongoDB(Basics)</code>
+<code>Git & GitHub</code>
+
 
 ## 🤖 AI Tools
 
-- Google AI Studio
-- Antigravity
-- GitHub copilot
-- Blackbox AI
-- OpenCode
-- Codex
-- Figma
-- Stitch ai
-- Visily ai
-- Miro, Balsamiq
+<code>Google AI Studio</code>
+<code>Antigravity</code>
+<code>GitHub Copilot</code>
+<code>Blackbox AI</code>
+<code>OpenCode</code>
+<br>
+
+<code>Codex</code>
+<code>Figma</code>
+<code>Stitch AI</code>
+<code>visily AI</code>
+<code>Miro</code>
+<code>Balsamiq</code>
+
 
 ## 🚀 Projects
 

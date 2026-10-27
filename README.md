@@ -62,4 +62,4 @@ To become a Full Stack Developer and contribute to building AI-powered applicati
 ## 📫 Connect With Me
 
 - LinkedIn: https://www.linkedin.com/in/mohammed-thife-1592b6358
-- GitHub:
+- GitHub: https://github.com/MohammedThife
